@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "it-IT",
-    baseUrl: "sta-rpg.github.io/laxdaela",
+    baseUrl: "STASYA00.github.io/laxdaela",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
